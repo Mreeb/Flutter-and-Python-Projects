@@ -1,1 +1,3 @@
 I am Learning Flutter So it is just a Beginner Friendly Project where i create a very Simple Single Page UI. Consists of a Text Box where I can Give a name and the Python backend Returns me a story with the name inside it.
+
+
